@@ -52,7 +52,7 @@ std::vector<std::string> juceClasses = {
 	"ActionBroadcaster", "OnlineUnlockStatus", "AiffAudioFormat", "WavAudioFormat", "MouseInputSource", "MidiMessageSequence", "newLine",
 	"PerformanceCounter", "readUnaligned", "BubbleMessageComponent", "FilenameComponent", "AudioFormatManager", "AudioFormatManager", "AudioThumbnailCache",
 	"ThreadPoolJob", "MidiFile", "ModalCallbackFunction", "HyperlinkButton", "ApplicationCommandManager", "JavascriptEngine", "FilenameComponent",
-	"ChoicePropertyComponent"
+	"ChoicePropertyComponent", "AudioParameterInt", "AudioParameterBool", "AudioParameterFloat", "AudioParameterChoice", "DropShadow", "degreesToRadians"
 };
 
 // checks whether a character is valid inside a C++ identifier (ASCII version)
